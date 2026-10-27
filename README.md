@@ -1,2 +1,5 @@
-# tutorial_repository
-here is the first repo on GitHub.
+I just stared to make repos to upload on GitHUB.
+
+This is just a demo.
+
+    ~~ Abhishek Upraity
